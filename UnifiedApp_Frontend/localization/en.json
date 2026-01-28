@@ -1,0 +1,28 @@
+{
+  "welcome": "Welcome to the App!",
+  "error": {
+    "title": "Oops! Something went wrong",
+    "message": "We couldn't load the content. Please check your connection and try again.",
+    "tryAgain": "Try Again"
+  },
+  "empty": {
+    "title": "Nothing to see here",
+    "message": "There is no content to display at the moment."
+  },
+  "cart": {
+    "empty": {
+      "title": "Your Cart is Empty",
+      "message": "Looks like you haven't added anything to your cart yet."
+    }
+  },
+  "search": {
+    "notFound": {
+      "title": "Item Not Found",
+      "message": "We couldn't find any items matching your search. Please try a different keyword."
+    }
+  },
+  "offline": {
+    "title": "You are offline",
+    "message": "Please check your internet connection."
+  }
+}

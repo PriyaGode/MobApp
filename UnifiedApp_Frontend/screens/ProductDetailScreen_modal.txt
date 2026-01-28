@@ -1,0 +1,46 @@
+
+      {/* Reviews Modal */}
+      <Modal
+        visible={showReviewsModal}
+        transparent={true}
+        animationType="slide"
+        onRequestClose={() => setShowReviewsModal(false)}
+      >
+        <View style={styles.modalOverlay}>
+          <View style={styles.modalContent}>
+            <View style={styles.modalHeader}>
+              <Text style={styles.modalTitle}>All Reviews</Text>
+              <TouchableOpacity onPress={() => setShowReviewsModal(false)}>
+                <Feather name="x" size={24} color={colors.textPrimary} />
+              </TouchableOpacity>
+            </View>
+            <ScrollView style={styles.reviewsList}>
+              {product.reviews.length > 0 ? (
+                product.reviews.map((review) => (
+                  <View key={review.id} style={styles.modalReviewCard}>
+                    <View style={styles.modalReviewHeader}>
+                      <Text style={styles.modalReviewAuthor}>{review.author}</Text>
+                      <View style={styles.modalReviewStars}>
+                        {[...Array(5)].map((_, index) => (
+                          <Feather
+                            key={index}
+                            name="star"
+                            size={14}
+                            color={index < review.rating ? colors.warning : colors.border}
+                            fill={index < review.rating ? colors.warning : "transparent"}
+                          />
+                        ))}
+                      </View>
+                    </View>
+                    <Text style={styles.modalReviewText}>{review.comment}</Text>
+                  </View>
+                ))
+              ) : (
+                <View style={styles.noReviews}>
+                  <Text style={styles.noReviewsText}>No reviews yet</Text>
+                </View>
+              )}
+            </ScrollView>
+          </View>
+        </View>
+      </Modal>

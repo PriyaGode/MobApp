@@ -1,0 +1,35 @@
+Add this import at the top:
+import * as Speech from 'expo-speech';
+
+Add this state in the component:
+const [isListening, setIsListening] = useState(false);
+
+Add this function:
+const handleVoiceSearch = async () => {
+  try {
+    setIsListening(true);
+    const result = await Speech.startAsync({
+      language: 'en-US',
+      maxHits: 1,
+      onStart: () => setIsListening(true),
+    });
+    if (result.value) {
+      setSearchText(result.value);
+      handleSearch(result.value);
+    }
+    setIsListening(false);
+  } catch (error) {
+    setIsListening(false);
+    Alert.alert('Voice Search', 'Unable to start voice recognition');
+  }
+};
+
+Replace the mic button in header with:
+<TouchableOpacity onPress={handleVoiceSearch} style={isListening && styles.micActive}>
+  <Feather name="mic" size={24} color={isListening ? "#FF6B6B" : "#333"} />
+</TouchableOpacity>
+
+Add this style:
+micActive: {
+  opacity: 0.6,
+}
