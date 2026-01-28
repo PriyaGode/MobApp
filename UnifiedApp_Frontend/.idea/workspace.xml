@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed949b07-5dce-4566-93eb-1fc0dffb1d26" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unified_Backend/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unified_Backend/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unified_Backend/src/main/java/com/OriginHubs/Amraj/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Unified_Backend/src/main/java/com/OriginHubs/Amraj/service/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unified_Backend/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unified_Backend/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unified_Backend/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unified_Backend/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/config/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/config/SecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/controller/AuthController$LoginRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/controller/AuthController$LoginRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/controller/AuthController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/controller/AuthController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/controller/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/controller/ProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/customer/service/ClickSendService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/customer/service/ClickSendService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/customer/service/CustomerAddressService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/customer/service/CustomerAddressService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/customer/service/CustomerFavoriteService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/customer/service/CustomerFavoriteService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/customer/service/CustomerOrderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/customer/service/CustomerOrderService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/customer/service/CustomerPaymentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/customer/service/CustomerPaymentService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/customer/service/CustomerProductService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/customer/service/CustomerProductService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/customer/service/CustomerUserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/customer/service/CustomerUserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/model/DeliveryPartner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/model/DeliveryPartner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/service/EmailService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/service/EmailService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/service/HubService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/service/HubService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/service/InventoryItemService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/service/InventoryItemService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/service/InvoiceService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/service/InvoiceService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/service/NotificationService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/service/NotificationService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/service/OrderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/service/OrderService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/service/ProductService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/service/ProductService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/service/TransferRequestService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/service/TransferRequestService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/service/UserAccountService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/service/UserAccountService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/websocket/AlertWebSocketHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/websocket/AlertWebSocketHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/websocket/TicketWebSocketHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Unified_Backend/target/classes/com/OriginHubs/Amraj/websocket/TicketWebSocketHandler.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;HGode&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ORIGIN-HUBS/adi_aam.git&quot;,
+    &quot;accountId&quot;: &quot;9d64e6f1-7b0f-4c0d-a0b3-481ccc6e983f&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="37zXTVE79Ih9z51DNHZkNRp0eDk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature/Bugs-AAM-GH&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/hemapriya/Desktop/Disk/Development/Self/UnifiedApp_Frontend&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed949b07-5dce-4566-93eb-1fc0dffb1d26" name="Changes" comment="" />
+      <created>1767906881065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1767906881065</updated>
+    </task>
+    <servers />
+  </component>
+</project>
